@@ -1,6 +1,6 @@
 # bitlocker-autolock
-bitlocker 自动锁定
-能够实现让电脑睡眠/休眠/锁定后自动锁定bitlocker加密盘
+bitlocker 自动锁定 
+实现让电脑睡眠/休眠/锁定后自动锁定bitlocker加密盘
 
 1. 打开 `lockdrive.bat` 文件。
 2. 在第二行修改需要自动锁定的硬盘盘符。
